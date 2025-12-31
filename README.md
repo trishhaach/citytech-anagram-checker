@@ -24,7 +24,7 @@ Given two strings, determine whether one string can be formed by rearranging the
 - Node.js installed (`node -v` to verify)
 
 ### Steps
-1. Clone or the repository.
+1. Clone the repository.
 2. Open the terminal and navigate to the project directory.
 3. Run the following command and provide input strings
 
