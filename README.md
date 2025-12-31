@@ -30,3 +30,11 @@ Given two strings, determine whether one string can be formed by rearranging the
 
 ### Command
 node anagram.js 
+
+## Time Complexity
+- O(n)
+- The algorithm iterates through the characters of the strings once.
+
+## Space Complexity
+- O(n)
+- Additional space is used to store character frequencies.
